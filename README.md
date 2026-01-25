@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Jorge Zamora Rey
+# Hi there! 👋 I'm Jorge
 
-**Computer Engineer & Linguist** | NLP / ML Systems / Computer Architecture
+**Computer Engineer & Linguist**
 
 ---
 

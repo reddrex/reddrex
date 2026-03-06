@@ -77,5 +77,4 @@ Right now I am updating existing private repos, but the one I am working most ac
 
 # 🏛️ Affiliation
 
-**Research Assistant (R1)**  
-@ [![Universidad de Alcalá](https://img.shields.io/badge/Universidad_de_Alcalá-UAH-5e9fee?style=flat-square)](https://www.uah.es/)
+**Research Assistant (R1)**  @ [![Universidad de Alcalá](https://img.shields.io/badge/Universidad_de_Alcalá-UAH-5e9fee?style=flat-square)](https://www.uah.es/)

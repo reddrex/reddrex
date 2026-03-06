@@ -36,7 +36,7 @@ Right now I am updating existing private repos, but the one I am working most ac
 # 🧠 Technologies I Use
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,ts,linux,docker,git,postgres,react&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,c,r,ts,linux,docker,git,postgres,react&perline=9" />
 </p>
 
 ---
@@ -50,6 +50,10 @@ Right now I am updating existing private repos, but the one I am working most ac
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddrex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5e9fee" />
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddrex&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=5e9fee&icon_color=5e9fee)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddrex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5e9fee)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=reddrex&theme=dark&hide_border=true&background=0d1117&ring=5e9fee&fire=5e9fee&currStreakLabel=5e9fee" />

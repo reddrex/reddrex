@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=5e9fee&center=true&vCenter=true&width=700&lines=Computer+Engineer+%26+Linguist;Computational+Linguistics+%7C+AI+Systems;Interested+in+HPC%2C+Efficient+AI+and+System+Design" />
 </p>
 
-**Computer Engineer & Linguist**
+**Some facts about your friendly neighborhood linguneer**
 
 ---
 
-Welcome! I'm a computer engineer and linguist specialized in **Intelligent Systems** and **Computer Architecture**.
+Welcome! I'm a computer engineer and linguist specialized in **Intelligent Systems** and **Computer Architecture**. As you can see by the title, I am a huge Marvel Comics fan too. I also have a dissemination substack account called linguneer, and I'm part of Chiefs Kingdom. You can find me coding while listening to NFL podcasts.
 
-I started in computational linguistics and NLP, which led me to a broader interest: how to build systems that are **scalable, reliable, secure and efficient**, especially AI ones.
+I began my journey in computational linguistics and NLP, which led me to a broader interest: how to build systems that are **scalable, reliable, secure and efficient**, especially AI ones.
 
-I mostly use GitHub to publish small projects I have, although currently most are private repositories either because I cannot make them public or because I am polishing them.
+I mostly use GitHub to publish small projects I have. Currently, most of them are private repositories - either because I cannot make them public or because I am polishing them.
 
 ---
 

@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jorge
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=5e9fee&center=true&vCenter=true&width=700&lines=Computer+Engineer+%26+Linguist;Computational+Linguistics+%7C+AI+Systems;Interested+in+HPC%2C+Efficient+AI+and+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=5e9fee&center=true&vCenter=true&width=700&lines=Computer+Engineer+%26+Linguist;Interested+in+HPC%2C+Efficient+AI+and+System+Design" />
 </p>
 
 **Some facts about your friendly neighborhood linguneer**
@@ -78,4 +78,4 @@ Right now I am updating existing private repos, but the one I am working most ac
 # 🏛️ Affiliation
 
 **Research Assistant (R1)**  
-@ Universidad de Alcalá
+@ [![Universidad de Alcalá](https://img.shields.io/badge/Universidad_de_Alcalá-UAH-5e9fee?style=flat-square)](https://www.uah.es/)

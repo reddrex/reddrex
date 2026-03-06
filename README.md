@@ -8,7 +8,9 @@
 
 ---
 
-Welcome! I'm a computer engineer and linguist specialized in **Intelligent Systems** and **Computer Architecture**. As you can see by the title, I am a huge Marvel Comics fan too. I also have a dissemination substack account called linguneer, and I'm part of Chiefs Kingdom. You can find me coding while listening to NFL podcasts.
+Welcome! I'm a computer engineer and linguist specialized in **Intelligent Systems** and **Computer Architecture**. 
+
+As you can see by the title, I am a huge Marvel Comics fan too. I also have a dissemination substack account called linguneer, and I'm part of Chiefs Kingdom. You can find me coding while listening to NFL podcasts.
 
 I began my journey in computational linguistics and NLP, which led me to a broader interest: how to build systems that are **scalable, reliable, secure and efficient**, especially AI ones.
 

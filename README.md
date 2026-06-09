@@ -12,7 +12,7 @@ I mostly use GitHub to publish small projects I have. Currently, most of them ar
 
 ---
 
-# 🔬 Research Interests
+# 🌟 Interests
 
 - 🗣️ **Natural Language Processing**
 - 🫂 **Human-Computer Interaction**

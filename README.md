@@ -4,9 +4,9 @@
 
 ---
 
-Welcome! I'm a computer engineer with a background in computational linguistics. 
+Welcome! I'm a computer hardware engineer with a background in applied AI. 
 
-I began my journey in computational linguistics and NLP, but nowadays I'm more interested in secure systems, especially AI ones.
+I began my journey in computational linguistics and NLP, but nowadays I'm more interested in systems than in language itself. I'm specially interested in system security.
 
 I mostly use GitHub to publish small projects I have. Currently, most of them are private repositories - either because I cannot make them public or because I am polishing them.
 
@@ -15,8 +15,10 @@ I mostly use GitHub to publish small projects I have. Currently, most of them ar
 # 🔬 Research Interests
 
 - 🗣️ **Natural Language Processing**
-- ⚙️ **Information security**
 - 🫂 **Human-Computer Interaction**
+- 🔐 **Information security**
+- 💻 **Computer Architecture**
+- ⚙️ **Embedded systems**
 
 ---
 

@@ -14,8 +14,7 @@ I mostly use GitHub to publish small projects I have. Currently, most of them ar
 
 # 🌟 Interests
 
-- 🗣️ **Natural Language Processing**
-- 🫂 **Human-Computer Interaction**
+- 🗣️ **Intelligent systems/Natural Language Processing**
 - 🔐 **Information security**
 - 💻 **Computer Architecture**
 - ⚙️ **Embedded systems**

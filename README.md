@@ -4,7 +4,7 @@
 
 ---
 
-Welcome! I'm a computer hardware engineer with a background in applied AI. 
+Welcome! I'm a computer science engineer with a background in applied AI. 
 
 I began my journey in computational linguistics and NLP, but nowadays I'm more interested in systems than in language itself. I'm specially interested in system security.
 

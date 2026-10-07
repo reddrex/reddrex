@@ -44,8 +44,3 @@ I mostly use GitHub to publish small projects I have. Currently, most of them ar
 </p>
 
 ---
-
-# 🌐 Connect with me
-
-[![Website](https://img.shields.io/badge/Website-reddrex.github.io/jorge-5e9fee?style=flat-square&logo=hugo)](https://reddrex.github.io/jorge/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Zamora_Rey-5e9fee?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jorge-zamora-ai-engineer)
